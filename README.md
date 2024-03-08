@@ -1,7 +1,7 @@
 # Airtribe_assignment
 Internship Assignment - Backend
 
-#Docker commands
+# Docker commands
 docker-compose up --build
 
 # Build the Docker images
